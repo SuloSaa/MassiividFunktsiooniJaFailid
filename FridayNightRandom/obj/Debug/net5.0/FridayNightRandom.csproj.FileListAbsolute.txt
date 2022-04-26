@@ -1,0 +1,16 @@
+C:\Users\Sulo\source\repos\FunctionsReturnAndEraisFromFile\FridayNightRandom\bin\Debug\net5.0\FridayNightRandom.exe
+C:\Users\Sulo\source\repos\FunctionsReturnAndEraisFromFile\FridayNightRandom\bin\Debug\net5.0\FridayNightRandom.deps.json
+C:\Users\Sulo\source\repos\FunctionsReturnAndEraisFromFile\FridayNightRandom\bin\Debug\net5.0\FridayNightRandom.runtimeconfig.json
+C:\Users\Sulo\source\repos\FunctionsReturnAndEraisFromFile\FridayNightRandom\bin\Debug\net5.0\FridayNightRandom.runtimeconfig.dev.json
+C:\Users\Sulo\source\repos\FunctionsReturnAndEraisFromFile\FridayNightRandom\bin\Debug\net5.0\FridayNightRandom.dll
+C:\Users\Sulo\source\repos\FunctionsReturnAndEraisFromFile\FridayNightRandom\bin\Debug\net5.0\ref\FridayNightRandom.dll
+C:\Users\Sulo\source\repos\FunctionsReturnAndEraisFromFile\FridayNightRandom\bin\Debug\net5.0\FridayNightRandom.pdb
+C:\Users\Sulo\source\repos\FunctionsReturnAndEraisFromFile\FridayNightRandom\obj\Debug\net5.0\FridayNightRandom.csproj.AssemblyReference.cache
+C:\Users\Sulo\source\repos\FunctionsReturnAndEraisFromFile\FridayNightRandom\obj\Debug\net5.0\FridayNightRandom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sulo\source\repos\FunctionsReturnAndEraisFromFile\FridayNightRandom\obj\Debug\net5.0\FridayNightRandom.AssemblyInfoInputs.cache
+C:\Users\Sulo\source\repos\FunctionsReturnAndEraisFromFile\FridayNightRandom\obj\Debug\net5.0\FridayNightRandom.AssemblyInfo.cs
+C:\Users\Sulo\source\repos\FunctionsReturnAndEraisFromFile\FridayNightRandom\obj\Debug\net5.0\FridayNightRandom.csproj.CoreCompileInputs.cache
+C:\Users\Sulo\source\repos\FunctionsReturnAndEraisFromFile\FridayNightRandom\obj\Debug\net5.0\FridayNightRandom.dll
+C:\Users\Sulo\source\repos\FunctionsReturnAndEraisFromFile\FridayNightRandom\obj\Debug\net5.0\ref\FridayNightRandom.dll
+C:\Users\Sulo\source\repos\FunctionsReturnAndEraisFromFile\FridayNightRandom\obj\Debug\net5.0\FridayNightRandom.pdb
+C:\Users\Sulo\source\repos\FunctionsReturnAndEraisFromFile\FridayNightRandom\obj\Debug\net5.0\FridayNightRandom.genruntimeconfig.cache

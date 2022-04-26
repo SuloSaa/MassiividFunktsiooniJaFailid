@@ -1,0 +1,16 @@
+C:\Users\Sulo\source\repos\FunctionsReturnAndEraisFromFile\FunctionsReturnAndEraisFromFile\bin\Debug\net5.0\FunctionsReturnAndEraisFromFile.exe
+C:\Users\Sulo\source\repos\FunctionsReturnAndEraisFromFile\FunctionsReturnAndEraisFromFile\bin\Debug\net5.0\FunctionsReturnAndEraisFromFile.deps.json
+C:\Users\Sulo\source\repos\FunctionsReturnAndEraisFromFile\FunctionsReturnAndEraisFromFile\bin\Debug\net5.0\FunctionsReturnAndEraisFromFile.runtimeconfig.json
+C:\Users\Sulo\source\repos\FunctionsReturnAndEraisFromFile\FunctionsReturnAndEraisFromFile\bin\Debug\net5.0\FunctionsReturnAndEraisFromFile.runtimeconfig.dev.json
+C:\Users\Sulo\source\repos\FunctionsReturnAndEraisFromFile\FunctionsReturnAndEraisFromFile\bin\Debug\net5.0\FunctionsReturnAndEraisFromFile.dll
+C:\Users\Sulo\source\repos\FunctionsReturnAndEraisFromFile\FunctionsReturnAndEraisFromFile\bin\Debug\net5.0\ref\FunctionsReturnAndEraisFromFile.dll
+C:\Users\Sulo\source\repos\FunctionsReturnAndEraisFromFile\FunctionsReturnAndEraisFromFile\bin\Debug\net5.0\FunctionsReturnAndEraisFromFile.pdb
+C:\Users\Sulo\source\repos\FunctionsReturnAndEraisFromFile\FunctionsReturnAndEraisFromFile\obj\Debug\net5.0\FunctionsReturnAndEraisFromFile.csproj.AssemblyReference.cache
+C:\Users\Sulo\source\repos\FunctionsReturnAndEraisFromFile\FunctionsReturnAndEraisFromFile\obj\Debug\net5.0\FunctionsReturnAndEraisFromFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sulo\source\repos\FunctionsReturnAndEraisFromFile\FunctionsReturnAndEraisFromFile\obj\Debug\net5.0\FunctionsReturnAndEraisFromFile.AssemblyInfoInputs.cache
+C:\Users\Sulo\source\repos\FunctionsReturnAndEraisFromFile\FunctionsReturnAndEraisFromFile\obj\Debug\net5.0\FunctionsReturnAndEraisFromFile.AssemblyInfo.cs
+C:\Users\Sulo\source\repos\FunctionsReturnAndEraisFromFile\FunctionsReturnAndEraisFromFile\obj\Debug\net5.0\FunctionsReturnAndEraisFromFile.csproj.CoreCompileInputs.cache
+C:\Users\Sulo\source\repos\FunctionsReturnAndEraisFromFile\FunctionsReturnAndEraisFromFile\obj\Debug\net5.0\FunctionsReturnAndEraisFromFile.dll
+C:\Users\Sulo\source\repos\FunctionsReturnAndEraisFromFile\FunctionsReturnAndEraisFromFile\obj\Debug\net5.0\ref\FunctionsReturnAndEraisFromFile.dll
+C:\Users\Sulo\source\repos\FunctionsReturnAndEraisFromFile\FunctionsReturnAndEraisFromFile\obj\Debug\net5.0\FunctionsReturnAndEraisFromFile.pdb
+C:\Users\Sulo\source\repos\FunctionsReturnAndEraisFromFile\FunctionsReturnAndEraisFromFile\obj\Debug\net5.0\FunctionsReturnAndEraisFromFile.genruntimeconfig.cache
